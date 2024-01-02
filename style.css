@@ -1,0 +1,21 @@
+.texto-menor{
+    font-size: 13px;
+}
+.div-facilidades{
+    display: flex;
+    width: 325px;
+    justify-content: center;
+}
+.max-width{
+    max-width: 690px;
+}
+.verde-claro{
+    color: #daff01;
+}
+.lilas{
+    background-color: #9353ff;
+}
+
+.fonte-slider{
+    font-size: 2.2em;
+}
